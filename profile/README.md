@@ -1,5 +1,7 @@
 # DZG Studio
 
+<img src="../assets/dzg-logo-512.png" alt="DZG Studio" width="96">
+
 DZG Studio LLC builds focused, privacy-first software for the Mac.
 
 ## Products
