@@ -10,9 +10,9 @@ DZG Studio LLC builds focused, privacy-first software for the Mac.
 
 Mint cleans storage, releases memory, organizes folders, removes app leftovers, and redacts sensitive documents. File analysis stays on the Mac, changes are review-first, and recoverable operations enter a 90-day journal with Undo.
 
-- [Website](https://mint.dzgapp.com)
-- [Documentation](https://mint.dzgapp.com/docs)
-- [Download Mint](https://mint.dzgapp.com/download)
+- [Website](https://mint.dzgapp.com/?utm_source=GitHub&utm_medium=referral&utm_campaign=org_profile)
+- [Documentation](https://mint.dzgapp.com/docs/?utm_source=GitHub&utm_medium=referral&utm_campaign=org_profile)
+- [Download Mint](https://mint.dzgapp.com/download/?utm_source=GitHub&utm_medium=referral&utm_campaign=org_profile)
 - [Homebrew tap](https://github.com/dzg-studio/homebrew-mint)
 - [Mint MCP launcher](https://github.com/dzg-studio/mcp-server-mint)
 
