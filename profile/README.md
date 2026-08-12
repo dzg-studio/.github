@@ -8,7 +8,7 @@ DZG Studio LLC builds focused, privacy-first software for the Mac.
 
 ### Mint — Mac Cleanup & File Organizer
 
-Mint cleans storage, releases memory, organizes folders, removes app leftovers, and redacts sensitive documents. File analysis stays on the Mac, changes are review-first, and recoverable operations enter a 90-day journal with Undo.
+Mint cleans storage, releases memory, organizes folders, removes app leftovers, and redacts sensitive documents. File analysis stays on the Mac, changes are review-first, and operations are recorded in a journal with undo receipts (up to 90 days of history; trash-based actions can be undone while the items remain in the Trash).
 
 - [Website](https://mint.dzgapp.com/?utm_source=GitHub&utm_medium=referral&utm_campaign=org_profile)
 - [Documentation](https://mint.dzgapp.com/docs/?utm_source=GitHub&utm_medium=referral&utm_campaign=org_profile)
